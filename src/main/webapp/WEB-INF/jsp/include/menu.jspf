@@ -1,0 +1,194 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<div id="menu">
+    <div class="pure-menu">
+        <a class="pure-menu-heading" href="/Tarot/tarot/index.jsp">${sessionScope.investor.username}</a>
+        <ul class="pure-menu-list">
+
+            <script type="text/javascript">
+function Show_Hidden(trid){
+    if(trid.style.display=="block"){
+        trid.style.display='none';
+    }else{
+        trid.style.display='block';
+    }
+}
+</script>
+
+
+            <ul class="drop-down-menu">
+                <li class="pure-menu-item"><a onclick="Show_Hidden(bigCard)"  class="pure-menu-link">大牌</a>
+                    <ul id="bigCard"  style="display: none">
+                        <li><a href="/Tarot/tarot/0.jsp" class="pure-menu-link">愚者</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/1.jsp" class="pure-menu-link">魔術師</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/2.jsp" class="pure-menu-link">女祭司</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/3.jsp" class="pure-menu-link">皇后</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/4.jsp" class="pure-menu-link">皇帝</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/5.jsp" class="pure-menu-link">教宗</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/6.jsp" class="pure-menu-link">戀人</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/7.jsp" class="pure-menu-link">戰車</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/8.jsp" class="pure-menu-link">力量</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/9.jsp" class="pure-menu-link">隱者</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/10.jsp" class="pure-menu-link">命運之輪</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/11.jsp" class="pure-menu-link">正義</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/12.jsp" class="pure-menu-link">倒吊人</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/13.jsp" class="pure-menu-link">死神</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/14.jsp" class="pure-menu-link">節制</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/15.jsp" class="pure-menu-link">惡魔</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/16.jsp" class="pure-menu-link">塔</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/17.jsp" class="pure-menu-link">星星</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/18.jsp" class="pure-menu-link">月亮</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/19.jsp" class="pure-menu-link">太陽</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/20.jsp" class="pure-menu-link">審判</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/21.jsp" class="pure-menu-link">世界</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="pure-menu-item"><a onclick="Show_Hidden(wands)"  class="pure-menu-link">權杖</a></li>
+                 <ul id="wands"  style="display: none">
+                        <li><a href="/Tarot/tarot/22.jsp" class="pure-menu-link">杖一</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/23.jsp" class="pure-menu-link">杖二</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/24.jsp" class="pure-menu-link">杖三</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/25.jsp" class="pure-menu-link">杖四</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/26.jsp" class="pure-menu-link">杖五</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/27.jsp" class="pure-menu-link">杖六</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/28.jsp" class="pure-menu-link">杖七</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/29.jsp" class="pure-menu-link">杖八</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/30.jsp" class="pure-menu-link">杖九</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/31.jsp" class="pure-menu-link">杖十</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/32.jsp" class="pure-menu-link">杖侍</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/33.jsp" class="pure-menu-link">杖騎</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/34.jsp" class="pure-menu-link">杖后</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/35.jsp" class="pure-menu-link">杖王</a>
+                        </li>
+                    </ul>
+                <li class="pure-menu-item"><a onclick="Show_Hidden(coin)"  class="pure-menu-link">錢幣</a></li>
+                   <ul id="coin"  style="display: none">
+                         <li><a href="/Tarot/tarot/64.jsp" class="pure-menu-link">幣一</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/65.jsp" class="pure-menu-link">幣二</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/66.jsp" class="pure-menu-link">幣三</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/67.jsp" class="pure-menu-link">幣四</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/68.jsp" class="pure-menu-link">幣五</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/69.jsp" class="pure-menu-link">幣六</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/70.jsp" class="pure-menu-link">幣七</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/71.jsp" class="pure-menu-link">幣八</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/72.jsp" class="pure-menu-link">幣九</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/73.jsp" class="pure-menu-link">幣十</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/74.jsp" class="pure-menu-link">幣侍</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/75.jsp" class="pure-menu-link">幣騎</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/76.jsp" class="pure-menu-link">幣后</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/77.jsp" class="pure-menu-link">幣王</a>
+                        </li>
+                    </ul>
+                <li class="pure-menu-item"><a onclick="Show_Hidden(cup)"  class="pure-menu-link">聖杯</a></li>
+                   <ul id="cup"  style="display: none">
+                          <li><a href="/Tarot/tarot/36.jsp" class="pure-menu-link">杯一</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/37.jsp" class="pure-menu-link">杯二</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/38.jsp" class="pure-menu-link">杯三</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/39.jsp" class="pure-menu-link">杯四</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/40.jsp" class="pure-menu-link">杯五</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/41.jsp" class="pure-menu-link">杯六</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/42.jsp" class="pure-menu-link">杯七</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/43.jsp" class="pure-menu-link">杯八</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/44.jsp" class="pure-menu-link">杯九</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/45.jsp" class="pure-menu-link">杯十</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/46.jsp" class="pure-menu-link">杯侍</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/47.jsp" class="pure-menu-link">杯騎</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/48.jsp" class="pure-menu-link">杯后</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/49.jsp" class="pure-menu-link">杯王</a>
+                        </li>
+                    </ul>
+                <li class="pure-menu-item"><a onclick="Show_Hidden(sword)"  class="pure-menu-link">寶劍</a></li>
+                   <ul id="sword"  style="display: none">
+                        <li><a href="/Tarot/tarot/50.jsp" class="pure-menu-link">劍一</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/51.jsp" class="pure-menu-link">劍二</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/52.jsp" class="pure-menu-link">劍三</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/53.jsp" class="pure-menu-link">劍四</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/54.jsp" class="pure-menu-link">劍五</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/55.jsp" class="pure-menu-link">劍六</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/56.jsp" class="pure-menu-link">劍七</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/57.jsp" class="pure-menu-link">劍八</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/58.jsp" class="pure-menu-link">劍九</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/59.jsp" class="pure-menu-link">劍十</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/60.jsp" class="pure-menu-link">劍侍</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/61.jsp" class="pure-menu-link">劍騎</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/62.jsp" class="pure-menu-link">劍后</a>
+                        </li>
+                        <li><a href="/Tarot/tarot/63.jsp" class="pure-menu-link">劍王</a>
+                        </li>
+                    </ul>
+            </ul>
+    </div>
+</div>
