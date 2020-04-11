@@ -20,7 +20,7 @@
 
                 </div>
 
-                <img src="/Tarot/tarot/img/144.jpg" width="20%" style="display:block; margin:auto;"><p/><p/>
+                <img src="../tarot/img/144.jpg" width="20%" style="display:block; margin:auto;"><p/><p/>
                 <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6"  >
                             <font size="3" color="red" >本網站主要提供牌的故事，牌意請自行從故事延伸</font></span></b><br> <p/>
             </div>
