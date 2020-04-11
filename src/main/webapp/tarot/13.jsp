@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 傳說天鵝終其一生都是沈默瘖啞的，然而，在臨死之際，牠會唱出令人心痛的美妙歌聲。那歌聲自牠胸腔偷出最後一口氣息，
                                 然後牠便在最終的嘆息中斷氣。那是最令人心碎哀慟的生命終曲。
@@ -42,7 +42,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 請對過往闔上門，並另起一扇新的門戶。代表將經歷轉變與過渡，改變狀態，蛻去老舊與多餘的、臣服於無可抗拒的力量，
                                 或將有勢不可擋的變化。老舊的事物必須被擱置一旁，並被焚燒去化，才能成為新的事物讓出路來。古老的鳳凰傳說，

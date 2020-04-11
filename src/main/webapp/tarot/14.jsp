@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 她聚精凝神，向內探索那寧定的中心、那平衡的所在。從自身的核心，她感覺到蟠龍與鳳凰不定的騷動。牠們相互纏繞，鱗羽交纏的擁抱著，
                                 直到彷彿融入了彼此。牠們蜷繞著對方，在一場互爭高的永恆戰役之中，跳著某種施與受、吸與斥的優雅華爾滋。那龍鳳繞著她盤旋飛舞，
@@ -44,7 +44,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 和諧與均衡、平衡相對之物、療癒。節制極端的事物、自我克制、約束絕對的驅力，並箝制、駕馭他們，將之運用於某種目標。
                                 將相對的事物分離開，便否定了它們合一的力量。反之，若是牽合兩者，以某種受控的方式將之融合，並瞭解彼此的賜贈，

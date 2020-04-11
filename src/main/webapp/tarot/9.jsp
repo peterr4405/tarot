@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 在城市的喧囂中稀微的星光完全被紅塵的炫光與霧霾淹沒了。他是位探尋者，摒棄了世俗的五光十色，以及種種擾亂人心的事物。
                                 他提起那盞燈籠。女智者曾告訴他，昔有星子墜落凡塵，而那燈火便是星星的微小碎片。它知道回家的路。那孤獨的光芒帶領他穿山越谷，
@@ -44,7 +44,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 內省、尋求孤獨、從世俗抽離，給予或接受指導。隱士是位啟迪人心的師友，他的指導將能照亮吾人自心的秘密。原本神秘莫測的情境，
                                 在適當的光照之下，就會變得清晰澄明。潛鳥的羽翼無聲滑過天際，在夜色中投下飄忽的陰影。它們是平安與寧靜的象徵，啼聲承載著古

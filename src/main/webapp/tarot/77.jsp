@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 「五角星國王」捧著一顆樹籽，那樹籽自內部放射金光，並隱隱悸動著，彷彿包藏著一顆搏動的心，訴說著謙卑的承諾，將要萌發滋長。
                                 大樹的葉片努力伸展，要沐浴在那片金光中，樹枝則提供熟透的蜜釀果實，每顆芬芳的球體都鼓脹著誘人的甜美汁液，那枝條向上挺起，
@@ -45,7 +45,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
 
                             </font></td>

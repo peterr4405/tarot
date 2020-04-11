@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 你們這些小靈俑，在月光下製作者青綠酸澀的小環圈，令羊兒不敢啃嚙，而你們的消遣則是在半夜裡種蘑菇⋯⋯
                                 ——莎士比亞《暴風雨》第五幕第一場
@@ -52,7 +52,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 恐懼與焦慮、相信幻覺、扭曲失真的經驗、追逐白日夢、夢想與幻想，迷失方向。妖精善於幻術，而踏入蘑菇精靈圈的危險人盡皆知。
                                 「月亮」是超越已知、舒適而可預測的境域。它是個異世界，本就令人敬畏，也能激發靈感，但對心存不敬著卻是危險可畏的。

@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 黑夜褪去，朝陽以血染般的曙光劃破天際，戰號隆隆震碎了大氣。闇黑天使拔出寶劍，加入戰局。幾隻黑天鵝伴隨著他，
                                 浸淫於自利與權利的爭鬥中，不再閃耀其他同類純白羽光，而是泛著黑珍珠般的烏亮光澤，閃現著某種闇黑之美。牠們朝天空發出嘶嘎的挑戰，
@@ -45,7 +45,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
 
                             </font></td>

@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 那條巨龍緊緊蜷踞著牠辛苦積攢的金銀珠寶。牠花了相當於人類好幾輩子的時間，才積聚了如此龐多的寶物，無人可以染指，
                                 更別想從牠手中竊取！「這是我一個人的！」牠嘶聲警告趨近圍觀的爬蟲表親們。蠑螈和蜥蜴飛快逃竄，以免被牠佔有的怒火鞭笞、狂掃。
@@ -44,7 +44,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
 
                             </font></td>

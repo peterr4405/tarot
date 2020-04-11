@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 雌狐張牙舞爪，與一頭獾對峙著。幾隻幼狐瑟縮在她蜷曲尾巴的保護下，緊張的觀戰。這兩個死敵不斷繞著彼此打轉，掂量者對方。
                                 這兒咬上一口，測試對方反應的迅捷；那兒撲一下，迫近對方的防衛圈。雌狐咆哮著向前進襲，因為她有幼崽要保護，而她斷不會辜負他們！
@@ -44,7 +44,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
 
                             </font></td>

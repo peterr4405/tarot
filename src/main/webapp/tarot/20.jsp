@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 當「審判日」到來，天使吹響號角，發送真理的召喚。所有的靈魂應聲甦醒，攤開一生的所作所為，供眾人檢視、審判。
                                 讓靈魂被燃燒的光與火徹底滌清，變得純淨無染。
@@ -43,7 +43,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 釋放、解脫與更新、赦罪、嶄新開端的清新鮮活、新的開始。做出審判吧！儘管它可能十分嚴苛，且難以面對，
                                 但做出抉擇是必要的。請堅持那些決定，承認那份需求，並且寬恕。復甦，是生與死之間的奧秘，當天命之聲召喚你向前邁進，

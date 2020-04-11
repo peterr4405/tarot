@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 在最古老的故事中，訴說著這樣的「抉擇」：選擇世俗感官的知識與滿足，抑或是當下始終存在的簡單純粹。
                                 投入戀人的懷抱，去尋求那種所有靈魂都為之心痛卻渴盼的結合，去體驗激情與愛戀的合而為一，並狂喜於其中。
@@ -42,7 +42,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 代表著結合、平衡、能量、流動、愛、慾望、激情、情感與理智的結合、締結盟約或婚姻。雖然它在本質上可以是浪漫的，但並非必然如此。
                                 「戀人」牌亦關乎價值判斷，以及掙扎於不同的抉擇——斑鳩所體現的純真，對照著被蛇纏繞的紅蘋果（蛇，可以是誘惑最古老象徵）；同樣的

@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 「給我說個故事。」火蜥蜴對大祭司說。
                                 「那你想聽什麼呢？小東西」大祭司緩緩吐出話語，每個音節彷彿都汲自內在深處，像是從一條條小樹根裡抽引出來。火蜥蜴習以為常，耐心聆聽。
@@ -44,7 +44,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 像株老樹，「大祭司」的跟紮得極深盤根錯節的纏繞著種種秘密、傳統和世代。他相信儀式與典禮，相信知識的追尋與深層的意義，
                                 也相信信仰體系的僵固性。他闡釋靈性的事物，並將之帶入世俗的層面。他冷靜沈著，寧定自若，是位能助人解開奧秘的導師。

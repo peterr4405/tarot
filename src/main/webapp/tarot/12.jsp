@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 在霧氣氤氳的森林深處，他將指尖探入紅土，然後在自己的皮膚、胸膛、手臂和臉上仔細描繪圖案。那紅色的螺紋將他的心靈引入深邃的冥思所在，
                                 心念在此化為行動，諸神在此與寂靜之聲跟他對話。
@@ -43,7 +43,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 放手，臣服於經驗及情緒的釋放。接受事物的本然，並放棄掌控。暫停行動，甚至做出犧牲。如同大神奧丁，為了追尋知識，將自身倒吊於世界之樹「伊格卓希爾」
                                 ，吾人必須捨棄自我，以獲得至高的報償。「吊人」同時敦促你逆轉自己的世界觀，用全新的眼光看待事物。有時我們必須改變對世界的覺知，才能體驗心靈狀態的微妙轉移。

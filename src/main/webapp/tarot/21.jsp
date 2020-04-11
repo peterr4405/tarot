@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 「世界」的脈搏如漣漪般波動迴盪，肯定著它所承載的一切生命，以及流逝而過的所有死亡。每片葉子、每顆樹木、每個生命、
                                 每個生物——從最最微小的昆蟲，到鳴鳴而歌的巨鯨——當它們出生、死亡，周流不息時所編織的圖案，全都由一位偉大的指揮家整合起來，
@@ -45,7 +45,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 代表滿足與安心、一個成功的收場、終點在望。達到平衡，融混並調和多元多樣的生命之歌，以獲致協調、整合。
                                 「世界」是一張象徵目標實現與繁榮興旺的牌。它是一種完成的狀態——雖然要獲得它，過程也不乏一份投入與煩勞。

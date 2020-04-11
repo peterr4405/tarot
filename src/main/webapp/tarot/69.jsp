@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 他高踞牆頭，跨騎於龍背之上，自信昂揚，躊躇滿志。他明瞭此生已獲得心之所欲，財富滿溢，用之不竭。從那高高在上的棲身之處，
                                 他吹奏者美妙的旋律，讓他所積累的財富從樂曲中傾瀉而下，澆灌下方枯瘠的土地。那乾涸的土壤逢此甘霖，呼喊著伸出多刺的卷鬚，
@@ -44,7 +44,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
 
                             </font></td>

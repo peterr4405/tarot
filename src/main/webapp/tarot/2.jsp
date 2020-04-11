@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 「女祭司」朝天空敞開自己。星光灑在她高高仰起的臉龐，她沐浴在這銀輝之中，浸淫於顫動的白熾光芒，感覺他在自己的心中灼灼發光，在開啟的迴廊，舞出金銀織錦的圖案。
                                 星子們吟誦著：
@@ -47,7 +47,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 意寓智慧、知識、學識、直覺、純淨、美德。女祭司的雙臂向外高舉，她的身體變成為聖杯活生生的象徵。貓頭鷹是知識的守護者，爪握鑰匙，
                                 以開啟奧秘。石榴是冥后波瑟芬妮的聖物，象徵繁殖與死亡的果實。她嘗了此果的種籽，因此身繫冥府；繡在女祭司衣衫上的月亮時盈時虧，當新

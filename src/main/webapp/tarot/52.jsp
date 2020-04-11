@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 在此，天鵝高貴的力與美為背叛所擊倒。牠以沁血的淚水悲悼心靈的創傷。天鵝絕非無助的生物——牠會勇猛保衛自身或幼仔——
                                 但在這兒卻毫無掙扎的跡象。或許，牠是在牠是在坦裸自身作為獻祭，卸下防衛，獨自踏上祭壇。令牠倒下的，莫非是苦難與悲傷？
@@ -41,7 +41,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
 
                             </font></td>

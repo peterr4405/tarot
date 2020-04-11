@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 古埃及人相信，當亡靈被死神召喚，就會被帶到「瑪特」女神面前接受審判。瑪特以羽毛作為砝碼，在天秤上稱量此人的靈魂，如果斤兩不足，此人就會被打入冥府。
                                 有人說「正義」女神是盲目的，但事實並非如此。她雙目白熾，並非由於眼盲，而是放射著純白的真理。她看穿肉身軀殼，撥開層層情緒、幻像與覺受，直入人心
@@ -41,7 +41,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 意寓平衡、和諧、均衡、承擔責任，在做決定之前權衡方方面面，以充分的覺知做出抉擇。「正義」有賴於合乎邏輯的心智，能對各種情境做出客觀的判斷，
                                 並對於需要重新評估的事物加以調整。權衡是非、道德與責任之後，為了真正平衡雙方，或許必須做出妥協，然後接受，並承認真相。抽到這張牌，

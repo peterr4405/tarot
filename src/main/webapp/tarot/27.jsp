@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 他站在象徵王者的石獅頂上，意氣風發的宣告自身的優勢。就連拿獅子都闔起了巨顎，對這位勝利者俯首稱臣，安靜而順從的蹲伏者。
                                 他以君王手握權杖的姿態握著柱杖，並高舉桂冠。他知道自己的本命星正在上升，絲毫不懼任何挑戰。他看過眾多挑戰者來來去去——有英勇的騎士
@@ -43,7 +43,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
 
                             </font></td>
