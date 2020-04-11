@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 故事總是這樣開場：「從前從前⋯⋯」然後，就像一個捆紮整齊的包裹，來到了「結局」。
                                 但真正的故事無始亦無終。它們並不僅只存在於人們宣告「存在！」之時，而是始終在那兒，在一場如織的舞蹈中，穿越時空迴盪著。
@@ -46,7 +46,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 命運之輪——天命——生命的絲縷交織匯聚，代表著宿命、轉捩點、運行與變化、模式與循環，一個相互連結的世界。
                                 牌面上彩繪玻璃窗的結飾圖案是由一條金線環繞輪軸串織而成，無始亦無終。巨輪的運轉升起與沈落，亦如同生命的變化。

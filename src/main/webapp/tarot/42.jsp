@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 她的理智迷失在雲霧中，當她仰望空中的城堡，雙眼閃爍著星星的光芒，心思的清明卻被月亮所蒙蔽。她的身心飄忽浮動，落腳之處岌岌可危，
                                 但她卻毫無所覺。在急切中，她或許會一不留神踏錯腳步，從立足的高處墜入雲封霧繞的深淵，山風興奮的騷動著，洌洌拍打著她的頭髮和衣衫。
@@ -44,7 +44,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
 
                             </font></td>

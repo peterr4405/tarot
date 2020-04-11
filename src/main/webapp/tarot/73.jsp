@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 那女子身披錦緞，配戴著金銀首飾，華貴的裝束顯示她優渥的社會地位。她蜷曲身子斜倚在龍背上，那龍騰空而起，如一陣輕風般在山谷上空逶迤飛翔。
                                 山風颯颯，對林木低訴古老的秘密，老樹用虯根盤繞自己的寶藏，然後刷刷抖擻葉片，將這秘密傳遞給那龍，而牠則接棒對她吟唱這些字句，
@@ -45,7 +45,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
 
                             </font></td>

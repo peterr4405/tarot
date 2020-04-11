@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 它是那最初的水滴，落在平滑如鏡的湖面上。有個幾乎無法察覺的漣漪開始暈散，逐漸擴大成環圈。那是個小小地震的輕微聳動，
                                 透過海水將那震顫向上傳播，而以拍擊在遙遠海岸的碎波告終。那是情感、愛與同情、親密與調協的最初騷動——這顆蘊藏潛能的小水滴，
@@ -43,7 +43,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
 
                             </font></td>

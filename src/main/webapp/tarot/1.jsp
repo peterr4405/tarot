@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 如同風中的一顆種籽，一根迴旋的羽毛，一粒凝結的晶塵，「愚人」悠悠晃晃，飄蕩而來，遇見了「魔法師」。愚人注視著他——這個男孩受到啟蒙，
                                 窮究自然元素的奧秘，並獲得傳授，精通了施咒、召喚與化合的秘術。
@@ -41,7 +41,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 原創性、創造力、技藝、自信、機敏靈巧、以及花招把戲。這張牌是關於攫取周遭無形的力量，並駕馭它，使之成為真相；也就是汲取不可言、
                                 喻之事物，使之進入存有的物質領域。魔法師之所以能運用四大元素的代表聖物：燈籠中的火焰、貝殼中的大海之聲、烏鴉羽毛中的風之氣息，以及樹葉所象徵的土，

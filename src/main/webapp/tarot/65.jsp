@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 他以單腳站立，跳著特技似的平衡之舞。如同印度天神濕婆，他全神貫注於那創造與毀滅之舞——相對力量之間某種和諧的均勢。
                                 彷彿他的姿勢還不夠岌岌可危，他所棲身的巉岩似乎也搖搖欲墜，一個最最微小的閃失，或是一陣迷途的狂風，似乎就會令他搖晃崩塌，
@@ -42,7 +42,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
 
                             </font></td>

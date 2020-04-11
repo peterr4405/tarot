@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 一道搖曳的流金劃過天際，太陽升起了。它是白晝的明星，在拂曉的灼灼光華中，逐退了稀微的星光，令蟄居黑夜的星子姐妹們羞怯退場。
                                 當一波波迷濛的晨霧從濕漉漉的土地升起，百鳥之王從酣睡的棲處現身。在黎明暖融融的薔薇光暈照映下，牠的羽毛閃現著彩虹。
@@ -54,7 +54,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 「太陽」象徵啟迪、領悟、榮耀與卓越成就；也代表生命的持續更新、充滿光燦的喜悅與能量、灌注精力，以及良好的健康；
                                 還意指滿懷自信與信任、視見澄明、目標明確、被晴朗的日光照耀。從古至今，太陽始終是生命與成長的象徵，

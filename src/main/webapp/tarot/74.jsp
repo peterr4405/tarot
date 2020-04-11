@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 「五角星侍衛」高踞龍背的脊峰，「機會」如那巨龍一般酣睡著。夢想和願景沿著牠碧綠的長軀顫動著，鑽入任何踏上這條青翠小徑之人的足底。
                                 那是從這龐然巨獸酣睡的心發送出來的——成功的夢想，擁有物質安適與穩定的渴望。她深知巨龍所提供的願景——一個奇妙的悅樂花園，
@@ -43,7 +43,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
 
                             </font></td>

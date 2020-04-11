@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 啊！海中的探尋者，向下潛泳，潛至海洋深處，沈入蔚藍的水域；水色如此幽暗，脈動似的閃爍黑珍珠的虹彩光澤。劃過層層水波，
                                 噢！真理的探尋者，以輕盈柔軟的身軀，滑過湧流與逆浪，迴避來自上界的陽光，那太過銳利的光輝令人目盲。如同深海生物的纖微冷光，
@@ -43,7 +43,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
 
                             </font></td>

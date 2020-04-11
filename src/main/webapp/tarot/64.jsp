@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 這是繁榮、豐裕和安穩的可能性。它是對財富與安康的承諾，預示著繁茂昌盛，收割辛勤工作的報酬。付出的精力將看見回報。種籽播入了肥沃的土壤，
                                 它會萌發怎樣的新芽？會滋長出何種奇異的植物？「五角星」牌組承諾某種好事將會來臨，但它需要耐心與努力。要怎麼收穫，先那麼栽。種子需要灌溉、
@@ -41,7 +41,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
 
                             </font></td>

@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 一顆種籽隨風飄墜，輕輕沈落土中。它抽根發芽，茁長成一顆小樹。歲月輪轉，它生長又生長——起初是一株纖弱的幼苗，
                                 逐漸發出鮮綠的生命光彩：歲月又再輪轉——它向天空伸展，雄偉又莊嚴，挑戰者蒼穹；歲月又再輪轉——它成為巨樹中的巨樹，
@@ -50,7 +50,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 災難、遽變、危機、釋放一切情緒、小我遭受重擊、揭示、啟悟、看透幻象。現狀的某種必要崩解——爆炸性的暴烈動亂，
                                 是打破長久確立模式的唯一途徑。苛酷殘暴的現實之手摧毀了幻象。對過往做出乾淨而決絕的切割。是到了重新檢視信念架構和既有觀念的時候了。

@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 他高舉權杖，如持火炬——那光與火的引路明燈。或許他自己便是那盞明燈，胸中燃燒著火焰，額上的王冠灼灼發光，整個人閃耀生輝，
                                 他舉起那熾熱的火炬照亮道路，邁步向前。大地震動，森林中的居民盡皆退避，樹木也向兩旁退開，抬起枝葉為他開道，周遭的景物隨他的意志而變幻，
@@ -43,7 +43,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
 
                             </font></td>

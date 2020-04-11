@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 他橫劍當胸，攔路而立，阻擋膽敢接近的人。他披著斗篷的身形冷酷執拗，強勢懾人，鋼刃閃著森森寒光。「誰敢越雷池一步？」
                                 他喝問，雙眸和白牙閃著微光，彷彿像是那兩道劍刃的反影。他站在那兒，如同鑄造寶劍的精鋼般堅硬難折。林中精靈在他身旁的樹叢中瑟瑟抖縮。
@@ -43,7 +43,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
 
                             </font></td>

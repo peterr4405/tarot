@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 寶劍侍衛懷抱著一隻小天鵝，她的身軀就是個活生生的搖籃。她有強烈的使命感，要保護那雛鳥不受侵害。天鵝們聚集在她身邊，
                                 強力拍煽著翅翼，屏蔽著她。牠們是警醒的守衛者，戒備的目光攝入一切，並以狂舞的羽翅製造出一股上升氣流，承載著她飛渡黑夜。
@@ -45,7 +45,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
 
                             </font></td>

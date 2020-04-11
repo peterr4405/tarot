@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 當他闔上迷濛雙眼，依稀覺得有雙溫柔的手將他扶上柔絨的羽背。他感受到那天鵝翅肌的收縮，筋骨的屈伸，然後，當牠騰空而起，
                                 則是一下微微的顛簸。他感覺自己的四肢癱軟，元氣蝕損，意志枯竭。天鵝載著他升上高空，而他則蜷縮如胎兒，緊抱牠的脊背，
@@ -45,7 +45,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
 
                             </font></td>

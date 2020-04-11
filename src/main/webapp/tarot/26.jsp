@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 在獸群最前方，野兔奮力衝刺，掠過岩石和樹木，鑽進了樹叢。牠的腳爪倏忽閃逝，腎上腺素在脈管中急速奔湧——那生猛鮮血的搏動，
                                 追逐者也聞嗅到了。他們追蹤者若影若現的模糊足跡，被這氣味引逗得發狂，爭先恐後，前仆後繼，在奮力追逐間，幾乎攀爬到彼此背上，
@@ -45,7 +45,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
 
                             </font></td>

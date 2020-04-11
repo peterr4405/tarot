@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 少女腳步踱著銀輝，滑過銀色的溪水。燦亮的銀白星光，將夜色蝕刻在銀光閃爍的波紋中。
                                 沒有太陽，也沒有月亮。萬籟俱寂的漆黑夜裡，只有星星的尾跡如鑽石般閃耀在天穹的絲絨毯上。銀河之水流洩天際，
@@ -46,7 +46,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 「星星」代表重獲希望，以及對未來的信念、靈感。在你寧靜的本體內找到那寂然不動的所在，試著在苦惱中找到平靜與和諧，
                                 毫無保留的給予、分享，展現你的慷慨。炙烈的陽光消逝了，就連月光也隱沒，只剩下星子們不帶批判的安詳眼光。那兒有種平安，

@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 她是生著羽翼的勝利女神，名喚「奈姬」，又稱「梅芙」。她倏忽而降，橫掃天際，從容又自信。她從水沫激盪的海底深處召喚出一對海之獨角獸，
                                 牠們依循天性，心悅誠服地侍奉她，俯首聽命於如此純粹的意志。炫光閃閃的巨浪，以海之威勢拍擊、怒吼，但當她駕馭者獨角獸駛過那波光粼粼的浪軌時
@@ -41,7 +41,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 克服障礙，獲得勝利、集中意志與意圖、建立某種身分、自信、維持紀律、承擔權利與權威，並以毫不動搖的篤定向目標推進。吾人身處的世界樣貌不斷變幻，
                                 無論是人、情緒，還是週遭的環境，都是如此；變動不居的環境可能、也將會帶來挑戰，我們必須予以掌控。如同海天交會處的稀微邊界，氣體與液體推擠激盪

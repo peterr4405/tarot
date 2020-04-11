@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 雄獅怒吼，大地顫動，雲朵慌忙奔竄飛掠，而竹子卻只輕柔搖擺。中國人明瞭竹枝隱匿的力量；看似纖弱，卻堅強而柔韌。那是一種無需對世界吶喊自身力量的堅強，
                                 而只是隨風搖擺、低伏，然後伴隨著竹葉悅耳的窸窣聲，再度優雅的挺身彈起。
@@ -41,7 +41,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 勇氣、冷靜、沈著與耐心、同情、勸導說服與柔性的掌控、經過調控的力量。管理衝動以控制憤怒和驅力，而非為其所操控。吾人必須對成功懷抱信心，
                                 儘管它或許不會立即來臨，得來也未必容易——獅子很兇猛，而牠守護的火焰也會灼傷人。力量有時必須被調控、節制。唯有堅定不移的決心，才能獲致渴望的結果。

@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 荊莓巫婆住在黑莓叢間，那莓果香甜誘人，但就連葉片都生滿邪惡的倒刺，一鉤住人便牢牢緊纏。嬌小的蜂鳥能輕易梭巡於如此險惡的纏結之間，
                                 十分從容的飛掠窄小的縫隙，穿梭閃避重重荊棘。但那天鵝的優雅高貴，以及牠雙翼的寬闊弧幅，並不適於如此糾結多刺的通道。
@@ -44,7 +44,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
 
                             </font></td>

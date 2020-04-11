@@ -29,7 +29,7 @@
 
                         <td>
 
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">故事 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 「皇帝」依稀記得⋯⋯
                                 他記得曾經有另一個男人。是他父親嗎？還是導師？抑或是退位的老王？他不斷在腦中回溯思索，努力捕捉者。曾經⋯⋯還有另一個男人，
@@ -42,7 +42,7 @@
 
                     <tr>
                         <td>
-                            <p style="line-height: 200%; margin-top: 0;margin-left: 100px; margin-right: 100px; margin-bottom: 0"><b><span class="style6">
+                            <p style="line-height: 200%; margin-top: 0;margin-left: 50px; margin-right: 50px; margin-bottom: 0"><b><span class="style6">
                                         <font size="3" color="#FFFF00">牌意 :</font></span></b><font size="3" color="#EFF8FE"><br>
                                 從混亂中創造秩序、權威權柄、領導統御、力量，建立律法與秩序。牆面的雕飾是領土與主權的象徵符號。
                                 雄鷹飛升至山海之巔、晝夜之頂，統御者一切，而塵俗的生物則臣服於其威權。然而，儘管雕飾的意象絢麗堂皇，
