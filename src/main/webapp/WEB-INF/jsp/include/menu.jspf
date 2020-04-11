@@ -2,7 +2,7 @@
 <%@ page pageEncoding="UTF-8" %>
 <div id="menu">
     <div class="pure-menu">
-        <a class="pure-menu-heading" href="/Tarot/tarot/index.jsp">${sessionScope.investor.username}</a>
+        <a class="pure-menu-heading" href="../tarot/index.jsp">${sessionScope.investor.username}</a>
         <ul class="pure-menu-list">
 
             <script type="text/javascript">
