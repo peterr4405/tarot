@@ -2,7 +2,7 @@
 <!doctype html>
 <html>
     <head>
-        <title>午夜塔羅小站</title>
+        <title>花影塔羅</title>
         <!-- head -->
         <%@include file="/WEB-INF/jsp/include/head.jspf"  %>
     </head>
